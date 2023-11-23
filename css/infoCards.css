@@ -1,0 +1,70 @@
+#pandaCard {
+    position: absolute;
+    background-image: url(../img/pandaCard.jpg);
+    width: 20vw;
+    height: 73vh;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover; 
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+#camelCard{
+    position: absolute;
+    background-image: url(../img/camelCard.jpg);
+    width: 20vw;
+    height: 73vh;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover; 
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#lemurCard{
+    position: absolute;
+    background-image: url(../img/lemurCard.jpg);
+    width: 20vw;
+    height: 73vh;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover; 
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#penguinCard{
+    position: absolute;
+    background-image: url(../img/penguinCard.jpg);
+    width: 20vw;
+    height: 73vh;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover; 
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#duckCard{
+    position: absolute;
+    background-image: url(../img/duckCard.jpg);
+    width: 20vw;
+    height: 73vh;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover; 
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
